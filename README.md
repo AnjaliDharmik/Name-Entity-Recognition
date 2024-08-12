@@ -25,3 +25,15 @@ Data annotation with the BIO2/ BIO style (B-PER, B-LOC, O, etc.) with Phi-2 and 
 ## dataset: 
 https://drive.google.com/drive/u/2/folders/1TpZsaMF6zPJ8rdjCj-Iq_PyE2ThhXoVV 
 
+## Description
+1. Data_Collection.ipynb
+- upload this script in google colab
+- upload "human_image_captions.json" file and change file location
+- upload "captions_train2017_human_entities.json" file and change file location
+- resulted .csv files "Train_Data.csv" and "Test_Data.csv" will generate 
+
+2. NER_V1.ipynb
+- upload resulted "Train_Data.csv" and change file location
+- upload 'requirements.txt' and 'Utils.py'
+- run the code
+
