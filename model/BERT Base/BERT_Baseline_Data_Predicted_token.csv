@@ -1,0 +1,15 @@
+ID,Token,Class,Predicted_Class
+827,A,O,O
+827,man,Noun,Noun
+827,getting,O,O
+827,a,O,O
+827,drink,Noun,Noun
+827,from,O,O
+827,a,O,O
+827,water,O,Noun
+827,fountain,O,Noun
+827,that,O,O
+827,is,O,O
+827,a,O,O
+827,toilet,Noun,Noun
+827,.,O,O

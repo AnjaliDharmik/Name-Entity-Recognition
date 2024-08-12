@@ -1,0 +1,9 @@
+git+https://github.com/huggingface/transformers # need to install from github
+datasets
+loralib
+sentencepiece
+bitsandbytes
+accelerate
+langchain
+einops
+tensorflow_probability>=0.13.0
