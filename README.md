@@ -2,7 +2,7 @@
 Extracted named entities from the textual data, the surveillance research team is interested in leveraging NER model for extracting subjects and objects from the provided custom dataset. 
 
 ## 1. Dataset
-The data is built from the MSCOCO2017 dataset, which initially is the image dataset with image captions. However, for the purpose of this project, only captions containing ‘a person’ in the sentence were extracted in order to have a dataset with normal, human activities in the form of the textual data. As a result, there’s a .json file, which is has [IDs, Number, Description, Keywords]. Keywords are the named entities that we want to extract from the provided data:
+The data is built from the Industial dataset, which initially is the image dataset with image captions. However, for the purpose of this project, only captions containing ‘a person’ in the sentence were extracted in order to have a dataset with normal, human activities in the form of the textual data. As a result, there’s a .json file, which is has [IDs, Number, Description, Keywords]. Keywords are the named entities that we want to extract from the provided data:
  
 
 ## 2. Models
@@ -21,9 +21,6 @@ Data annotation with the BIO2/ BIO style (B-PER, B-LOC, O, etc.) with Phi-2 and 
 
 ## Time duration: 
 3 weeks
-
-## dataset: 
-https://drive.google.com/drive/u/2/folders/1TpZsaMF6zPJ8rdjCj-Iq_PyE2ThhXoVV 
 
 ## Description
 1. Data_Collection.ipynb
